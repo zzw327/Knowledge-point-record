@@ -5,9 +5,9 @@
 
 1.1 分类
 
-特征值分解
+  特征值分解
 
-PCA(Principal Component Analysis)分解，作用：降维、压缩。
+  PCA(Principal Component Analysis)分解，作用：降维、压缩。
 
 SVD(Singular Value Decomposition)分解，也叫奇异值分解。
 
