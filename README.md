@@ -4,8 +4,11 @@
 一、矩阵分解
 1.1 分类
 特征值分解
+
 PCA(Principal Component Analysis)分解，作用：降维、压缩。
+
 SVD(Singular Value Decomposition)分解，也叫奇异值分解。
+
 LSI(Latent Semantic Indexing)或者叫LSA(Latent Semantic Analysis)，隐语义分析分解。
 PLSA(Probabilistic Latent Semantic Analysis)，概率潜在语义分析。PLSA和LDA都是主题模型，PLSA是判别式模型。
 NMF(Non-negative Matrix Factorization)，非负矩阵分解。非负矩阵分解能够广泛应用于图像分析、文本挖掘和语言处理等领域。
