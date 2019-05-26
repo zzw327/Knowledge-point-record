@@ -18,4 +18,4 @@
 * PMF(Probabilistic Matrix Factorization)，概率矩阵分解。  
 * SVD++  
 矩阵分解的主要应用是：降维、聚类分析、数据预处理、低维度特征学习、特征学习、推荐系统、大数据分析等  
-![alt 属性文本](https://mmbiz.qpic.cn/mmbiz_png/rB4jswrswuypRuABCGAYIouIazEuNcZTaJINrAp7iaNic0zGXUe25icKJtfCEwmTg5CBr3cic33CnKiaN8Z4myANOBA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1"可选标题")
+![矩阵分解发展的历史](https://mmbiz.qpic.cn/mmbiz_png/rB4jswrswuypRuABCGAYIouIazEuNcZTaJINrAp7iaNic0zGXUe25icKJtfCEwmTg5CBr3cic33CnKiaN8Z4myANOBA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1"可选标题")
