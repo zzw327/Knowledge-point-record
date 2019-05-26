@@ -1,7 +1,7 @@
 # Knowledge-point-record
 整理记录知识点
 
-一、矩阵分解
+## 一、矩阵分解
 
 1.1 分类
 
