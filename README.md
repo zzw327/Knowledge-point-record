@@ -1,7 +1,7 @@
 # Knowledge-point-record
 整理记录知识点
 ## 一、矩阵分解
-### 1.1 分类
+### 1.1  分类
 * 特征值分解  
 * PCA(Principal Component Analysis)分解，作用：降维、压缩。  
 * SVD(Singular Value Decomposition)分解，也叫奇异值分解。  
@@ -19,4 +19,6 @@
 * SVD++  
 **矩阵分解的主要应用是：降维、聚类分析、数据预处理、低维度特征学习、特征学习、推荐系统、大数据分析等**  
 矩阵分解发展的历史：  
-![矩阵分解发展的历史](https://mmbiz.qpic.cn/mmbiz_png/rB4jswrswuypRuABCGAYIouIazEuNcZTaJINrAp7iaNic0zGXUe25icKJtfCEwmTg5CBr3cic33CnKiaN8Z4myANOBA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "矩阵分解发展的历史")
+![矩阵分解发展的历史](https://mmbiz.qpic.cn/mmbiz_png/rB4jswrswuypRuABCGAYIouIazEuNcZTaJINrAp7iaNic0zGXUe25icKJtfCEwmTg5CBr3cic33CnKiaN8Z4myANOBA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "矩阵分解发展的历史")  
+### 1.2  具体介绍
+#### 1.2.1 特征值分解
