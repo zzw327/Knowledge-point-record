@@ -22,3 +22,6 @@
 ![矩阵分解发展的历史](https://mmbiz.qpic.cn/mmbiz_png/rB4jswrswuypRuABCGAYIouIazEuNcZTaJINrAp7iaNic0zGXUe25icKJtfCEwmTg5CBr3cic33CnKiaN8Z4myANOBA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "矩阵分解发展的历史")  
 ### 1.2  具体介绍
 #### 1.2.1 特征值分解
+只适用于方阵，$$A=Q$$
+#### 1.2.1 奇异值分解
+能适用于任意矩阵的一种分解的方法，对于任意矩阵A总是存在一个奇异值分解：
